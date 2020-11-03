@@ -1,0 +1,3 @@
+[2020/11/04-00:13:47] [main] [INFO ] [net.sunofbeach.blog.BlogApplication] : Starting BlogApplication on DESKTOP-G0F80VO with PID 2140 (E:\project\IdeaProject\SobBlogSystem\target\classes started by JinFan in E:\project\Ideaproject\SobBlogSystem)
+[2020/11/04-00:13:47] [main] [INFO ] [net.sunofbeach.blog.BlogApplication] : The following profiles are active: dev
+[2020/11/04-00:13:53] [main] [INFO ] [net.sunofbeach.blog.BlogApplication] : Started BlogApplication in 6.529 seconds (JVM running for 7.749)
