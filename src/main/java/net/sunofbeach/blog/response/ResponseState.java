@@ -1,7 +1,5 @@
 package net.sunofbeach.blog.response;
 
-import org.aspectj.bridge.IMessage;
-
 /**
  * @program: SobBlogSystem
  * @description: 返回结果的状态
