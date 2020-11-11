@@ -1,0 +1,13 @@
+[2020/11/07-18:34:55] [main] [INFO ] [net.sunofbeach.blog.BlogApplication] : Starting BlogApplication on DESKTOP-G0F80VO with PID 16112 (E:\project\gitClonePorject\SobBlogSystem\target\classes started by JinFan in E:\project\gitClonePorject\SobBlogSystem)
+[2020/11/07-18:34:55] [main] [INFO ] [net.sunofbeach.blog.BlogApplication] : The following profiles are active: dev
+[2020/11/07-18:38:19] [main] [INFO ] [net.sunofbeach.blog.BlogApplication] : Starting BlogApplication on DESKTOP-G0F80VO with PID 14620 (E:\project\gitClonePorject\SobBlogSystem\target\classes started by JinFan in E:\project\gitClonePorject\SobBlogSystem)
+[2020/11/07-18:38:19] [main] [INFO ] [net.sunofbeach.blog.BlogApplication] : The following profiles are active: dev
+[2020/11/07-18:41:31] [main] [INFO ] [net.sunofbeach.blog.BlogApplication] : Starting BlogApplication on DESKTOP-G0F80VO with PID 16168 (E:\project\gitClonePorject\SobBlogSystem\target\classes started by JinFan in E:\project\gitClonePorject\SobBlogSystem)
+[2020/11/07-18:41:31] [main] [INFO ] [net.sunofbeach.blog.BlogApplication] : The following profiles are active: dev
+[2020/11/07-18:45:13] [main] [INFO ] [net.sunofbeach.blog.BlogApplication] : Starting BlogApplication on DESKTOP-G0F80VO with PID 13920 (E:\project\gitClonePorject\SobBlogSystem\target\classes started by JinFan in E:\project\gitClonePorject\SobBlogSystem)
+[2020/11/07-18:45:13] [main] [INFO ] [net.sunofbeach.blog.BlogApplication] : The following profiles are active: dev
+[2020/11/07-19:44:24] [main] [INFO ] [net.sunofbeach.blog.BlogApplication] : Starting BlogApplication on DESKTOP-G0F80VO with PID 5380 (E:\project\gitClonePorject\SobBlogSystem\target\classes started by JinFan in E:\project\gitClonePorject\SobBlogSystem)
+[2020/11/07-19:44:24] [main] [INFO ] [net.sunofbeach.blog.BlogApplication] : The following profiles are active: dev
+[2020/11/07-19:44:31] [main] [INFO ] [net.sunofbeach.blog.BlogApplication] : Started BlogApplication in 8.009 seconds (JVM running for 9.68)
+[2020/11/07-19:45:19] [http-nio-2020-exec-1] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : captcha font type ==>1
+[2020/11/07-19:45:19] [http-nio-2020-exec-1] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : captcha content == > sgn9a

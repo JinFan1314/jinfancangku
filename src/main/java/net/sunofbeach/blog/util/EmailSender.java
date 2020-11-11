@@ -21,13 +21,12 @@ public class EmailSender {
     private static final String TAG = "EmailSender";
     private static Session session;
     private static String user;
-
     private MimeMessage msg;
     private String text;
     private String html;
-    private List<MimeBodyPart> attachments = new ArrayList<MimeBodyPart>();
+    private final List<MimeBodyPart> attachments = new ArrayList<MimeBodyPart>();
 
-    //HGAXNDIANNBJBZMI
+    //HANDMAIDEN
     private EmailSender() {
         EmailSender.config(EmailSender.SMTP_163(false), "jf1314098765@163.com", "HGAXNDIANNBJBZMI");
     }
@@ -46,8 +45,8 @@ public class EmailSender {
     /**
      * smtp entnterprise qq
      *
-     * @param debug
-     * @return
+     * @param : debug
+     * @return :
      */
     public static Properties SMTP_ENT_QQ(boolean debug) {
         Properties props = defaultConfig(debug);
@@ -59,7 +58,7 @@ public class EmailSender {
      * smtp qq
      *
      * @param debug enable debug
-     * @return
+     * @return :
      */
     public static Properties SMTP_QQ(boolean debug) {
         Properties props = defaultConfig(debug);

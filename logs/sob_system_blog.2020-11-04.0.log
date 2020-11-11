@@ -1,0 +1,22 @@
+[2020/11/04-00:13:47] [main] [INFO ] [net.sunofbeach.blog.BlogApplication] : Starting BlogApplication on DESKTOP-G0F80VO with PID 2140 (E:\project\IdeaProject\SobBlogSystem\target\classes started by JinFan in E:\project\Ideaproject\SobBlogSystem)
+[2020/11/04-00:13:47] [main] [INFO ] [net.sunofbeach.blog.BlogApplication] : The following profiles are active: dev
+[2020/11/04-00:13:53] [main] [INFO ] [net.sunofbeach.blog.BlogApplication] : Started BlogApplication in 6.529 seconds (JVM running for 7.749)
+[2020/11/04-00:34:42] [main] [INFO ] [net.sunofbeach.blog.BlogApplication] : Starting BlogApplication on DESKTOP-G0F80VO with PID 15232 (E:\project\gitClonePorject\SobBlogSystem\target\classes started by JinFan in E:\project\gitClonePorject\SobBlogSystem)
+[2020/11/04-00:34:42] [main] [INFO ] [net.sunofbeach.blog.BlogApplication] : The following profiles are active: dev
+[2020/11/04-00:34:50] [main] [INFO ] [net.sunofbeach.blog.BlogApplication] : Started BlogApplication in 7.858 seconds (JVM running for 9.878)
+[2020/11/04-00:35:07] [http-nio-2020-exec-1] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : captcha font type ==>4
+[2020/11/04-00:35:07] [http-nio-2020-exec-1] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : captcha content == > f77zy
+[2020/11/04-00:36:51] [main] [INFO ] [net.sunofbeach.blog.BlogApplication] : Starting BlogApplication on DESKTOP-G0F80VO with PID 8948 (E:\project\gitClonePorject\SobBlogSystem\target\classes started by JinFan in E:\project\gitClonePorject\SobBlogSystem)
+[2020/11/04-00:36:51] [main] [INFO ] [net.sunofbeach.blog.BlogApplication] : The following profiles are active: dev
+[2020/11/04-00:36:57] [main] [INFO ] [net.sunofbeach.blog.BlogApplication] : Started BlogApplication in 6.464 seconds (JVM running for 7.756)
+[2020/11/04-00:37:29] [http-nio-2020-exec-4] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : captcha font type ==>6
+[2020/11/04-00:37:29] [http-nio-2020-exec-4] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : captcha content == > 3
+[2020/11/04-00:39:53] [http-nio-2020-exec-7] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : captcha font type ==>1
+[2020/11/04-00:39:53] [http-nio-2020-exec-7] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : captcha content == > gzxax
+[2020/11/04-00:40:34] [http-nio-2020-exec-8] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : deleteResult of refresh token ===>1
+[2020/11/04-00:42:56] [main] [INFO ] [net.sunofbeach.blog.BlogApplication] : Starting BlogApplication on DESKTOP-G0F80VO with PID 8732 (E:\project\gitClonePorject\SobBlogSystem\target\classes started by JinFan in E:\project\gitClonePorject\SobBlogSystem)
+[2020/11/04-00:42:56] [main] [INFO ] [net.sunofbeach.blog.BlogApplication] : The following profiles are active: dev
+[2020/11/04-00:43:02] [main] [INFO ] [net.sunofbeach.blog.BlogApplication] : Started BlogApplication in 6.874 seconds (JVM running for 8.06)
+[2020/11/04-00:43:10] [http-nio-2020-exec-3] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : captcha font type ==>8
+[2020/11/04-00:43:10] [http-nio-2020-exec-3] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : captcha content == > jzwqe
+[2020/11/04-00:43:23] [http-nio-2020-exec-2] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : deleteResult of refresh token ===>1
