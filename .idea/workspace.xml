@@ -22,7 +22,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ddff5bef-7dd2-49e9-be88-4157133d1c9e" name="Default Changelist" comment="项目的描述以及重要代码" />
+    <list default="true" id="ddff5bef-7dd2-49e9-be88-4157133d1c9e" name="Default Changelist" comment="项目的描述以及重要代码">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/博客系统.md" beforeDir="false" afterPath="$PROJECT_DIR$/博客系统.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,6 +59,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
@@ -93,13 +98,15 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -131,6 +138,7 @@
       <workItem from="1605078041377" duration="902000" />
       <workItem from="1605111597103" duration="59000" />
       <workItem from="1605111842009" duration="3068000" />
+      <workItem from="1605171680354" duration="788000" />
     </task>
     <task id="LOCAL-00001" summary="提交文件">
       <created>1605112115187</created>
@@ -153,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605114913440</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="文件提交">
+      <created>1605171702426</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605171702426</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,17 +191,22 @@
     <MESSAGE value="提交文件" />
     <MESSAGE value="修改文件格式" />
     <MESSAGE value="项目的描述以及重要代码" />
-    <option name="LAST_COMMIT_MESSAGE" value="项目的描述以及重要代码" />
+    <MESSAGE value="文件提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="文件提交" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="846" y="416" key="#Assign_Data_Sources" timestamp="1605172474061">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="846" y="416" key="#Assign_Data_Sources/0.0.1920.1050@0.0.1920.1050" timestamp="1605172474061" />
     <state x="440" y="99" key="#Project_Structure" timestamp="1604749339704">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="440" y="99" key="#Project_Structure/0.0.1920.1050@0.0.1920.1050" timestamp="1604749339704" />
-    <state x="552" y="183" width="1295" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605114646560">
+    <state x="552" y="183" width="1295" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605172459052">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="183" width="1295" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1605114646560" />
+    <state x="552" y="183" width="1295" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1605172459052" />
     <state x="765" y="233" key="#com.intellij.ide.util.MemberChooser" timestamp="1604415880377">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -195,6 +215,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="916" y="330" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1604414404886" />
+    <state x="92" y="92" width="1736" height="866" key="DiffContextDialog" timestamp="1605172010215">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="92" y="92" width="1736" height="866" key="DiffContextDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1605172010215" />
     <state x="925" y="279" key="FileChooserDialogImpl" timestamp="1604749315594">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -239,10 +263,14 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="491" y="170" width="1309" height="709" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1604749323274" />
-    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1605114917800">
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1605171710736">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1605114917800" />
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1605171710736" />
+    <state x="92" y="92" width="1736" height="866" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1605172010216">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="92" y="92" width="1736" height="866" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1605172010216" />
     <state x="-33" y="148" key="new project wizard" timestamp="1604746148701">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
