@@ -22,7 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ddff5bef-7dd2-49e9-be88-4157133d1c9e" name="Default Changelist" comment="修改文件格式" />
+    <list default="true" id="ddff5bef-7dd2-49e9-be88-4157133d1c9e" name="Default Changelist" comment="项目的描述以及重要代码" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,15 +80,16 @@
     <selection>jr</selection>
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\project\IdeaProject\SobBlogSystem\src\main\resources" />
-      <recent name="E:\project\IdeaProject\SobBlogSystem\src\main\java\net\sunofbeach\blog" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\project\gitClonePorject\SobBlogSystem" />
       <recent name="E:\project\IdeaProject\SobBlogSystem\src\main\resources" />
       <recent name="E:\project\IdeaProject\SobBlogSystem\src\main\java\net\sunofbeach\blog" />
       <recent name="E:\project\IdeaProject\SobBlogSystem" />
       <recent name="E:\project\IdeaProject\SobBlogSystem\src\main\java" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\project\IdeaProject\SobBlogSystem\src\main\resources" />
+      <recent name="E:\project\IdeaProject\SobBlogSystem\src\main\java\net\sunofbeach\blog" />
     </key>
   </component>
   <component name="RunManager">
@@ -129,7 +130,7 @@
       <workItem from="1604749436747" duration="107000" />
       <workItem from="1605078041377" duration="902000" />
       <workItem from="1605111597103" duration="59000" />
-      <workItem from="1605111842009" duration="2941000" />
+      <workItem from="1605111842009" duration="3068000" />
     </task>
     <task id="LOCAL-00001" summary="提交文件">
       <created>1605112115187</created>
@@ -145,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605114580582</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="项目的描述以及重要代码">
+      <created>1605114913440</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605114913440</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,7 +175,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="提交文件" />
     <MESSAGE value="修改文件格式" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改文件格式" />
+    <MESSAGE value="项目的描述以及重要代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="项目的描述以及重要代码" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="99" key="#Project_Structure" timestamp="1604749339704">
@@ -230,10 +239,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="491" y="170" width="1309" height="709" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1604749323274" />
-    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1605114584939">
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1605114917800">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1605114584939" />
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1605114917800" />
     <state x="-33" y="148" key="new project wizard" timestamp="1604746148701">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
