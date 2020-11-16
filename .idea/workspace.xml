@@ -23,8 +23,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ddff5bef-7dd2-49e9-be88-4157133d1c9e" name="Default Changelist" comment="项目的描述以及重要代码">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/博客系统.md" beforeDir="false" afterPath="$PROJECT_DIR$/博客系统.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -98,19 +98,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="BlogApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="SobBlogSystem" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="net.sunofbeach.blog.BlogApplication" />
@@ -138,7 +125,8 @@
       <workItem from="1605078041377" duration="902000" />
       <workItem from="1605111597103" duration="59000" />
       <workItem from="1605111842009" duration="3068000" />
-      <workItem from="1605171680354" duration="788000" />
+      <workItem from="1605171680354" duration="1491000" />
+      <workItem from="1605508675858" duration="868000" />
     </task>
     <task id="LOCAL-00001" summary="提交文件">
       <created>1605112115187</created>
@@ -168,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605171702426</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="项目的描述以及重要代码">
+      <created>1605172558607</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1605172558607</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,9 +185,9 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="提交文件" />
     <MESSAGE value="修改文件格式" />
-    <MESSAGE value="项目的描述以及重要代码" />
     <MESSAGE value="文件提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="文件提交" />
+    <MESSAGE value="项目的描述以及重要代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="项目的描述以及重要代码" />
   </component>
   <component name="WindowStateProjectService">
     <state x="846" y="416" key="#Assign_Data_Sources" timestamp="1605172474061">
@@ -263,10 +258,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="491" y="170" width="1309" height="709" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1604749323274" />
-    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1605171710736">
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1605172567897">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1605171710736" />
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1605172567897" />
     <state x="92" y="92" width="1736" height="866" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1605172010216">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
