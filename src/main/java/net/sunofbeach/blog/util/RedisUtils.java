@@ -378,7 +378,7 @@ public class RedisUtils {
      * 获取set缓存的长度
      *
      * @param key 键
-     * @return
+     * @return :
      */
     public long sGetSetSize(String key) {
         try {
@@ -412,7 +412,7 @@ public class RedisUtils {
      * @param key   键
      * @param start 开始
      * @param end   结束  0 到 -1代表所有值
-     * @return
+     * @return :
      */
     public List<Object> lGet(String key, long start, long end) {
         try {
@@ -427,7 +427,7 @@ public class RedisUtils {
      * 获取list缓存的长度
      *
      * @param key 键
-     * @return
+     * @return :
      */
     public long lGetListSize(String key) {
         try {
@@ -443,7 +443,7 @@ public class RedisUtils {
      *
      * @param key   键
      * @param index 索引  index>=0时， 0 表头，1 第二个元素，依次类推；index<0时，-1，表尾，-2倒数第二个元素，依次类推
-     * @return
+     * @return :
      */
     public Object lGetIndex(String key, long index) {
         try {
@@ -459,7 +459,7 @@ public class RedisUtils {
      *
      * @param key   键
      * @param value 值
-     * @return
+     * @return :
      */
     public boolean lSet(String key, Object value) {
         try {
@@ -477,11 +477,11 @@ public class RedisUtils {
      * @param key   键
      * @param value 值
      * @param time  时间(秒)
-     * @return
+     * @return :
      */
     public boolean lSet(String key, Object value, long time) {
         try {
-            redisTemplate.opsForList().rightPush(key, value);
+            Long rightPush = redisTemplate.opsForList().rightPush(key, value);
             if (time > 0) expire(key, time);
             return true;
         } catch (Exception e) {
@@ -495,7 +495,7 @@ public class RedisUtils {
      *
      * @param key   键
      * @param value 值
-     * @return
+     * @return :
      */
     public boolean lSet(String key, List<Object> value) {
         try {
@@ -513,7 +513,7 @@ public class RedisUtils {
      * @param key   键
      * @param value 值
      * @param time  时间(秒)
-     * @return
+     * @return :
      */
     public boolean lSet(String key, List<Object> value, long time) {
         try {
@@ -532,7 +532,7 @@ public class RedisUtils {
      * @param key   键
      * @param index 索引
      * @param value 值
-     * @return
+     * @return :
      */
     public boolean lUpdateIndex(String key, long index, Object value) {
         try {
@@ -554,8 +554,7 @@ public class RedisUtils {
      */
     public long lRemove(String key, long count, Object value) {
         try {
-            Long remove = redisTemplate.opsForList().remove(key, count, value);
-            return remove;
+            return redisTemplate.opsForList().remove(key, count, value);
         } catch (Exception e) {
             e.printStackTrace();
             return 0;

@@ -1,0 +1,5 @@
+[2020/12/01-15:27:48] [main] [INFO ] [net.sunofbeach.blog.BlogApplication] : Starting BlogApplication on DESKTOP-G0F80VO with PID 1472 (E:\project\gitClonePorject\SobBlogSystem\target\classes started by JinFan in E:\project\gitClonePorject\SobBlogSystem)
+[2020/12/01-15:27:48] [main] [INFO ] [net.sunofbeach.blog.BlogApplication] : The following profiles are active: dev
+[2020/12/01-15:27:54] [main] [INFO ] [net.sunofbeach.blog.BlogApplication] : Started BlogApplication in 6.864 seconds (JVM running for 8.479)
+[2020/12/01-15:28:49] [http-nio-2020-exec-1] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : captcha font type ==>5
+[2020/12/01-15:28:49] [http-nio-2020-exec-1] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : captcha content == > 44ekc

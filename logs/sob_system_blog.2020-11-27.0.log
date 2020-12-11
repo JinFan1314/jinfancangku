@@ -1,0 +1,52 @@
+[2020/11/27-00:00:36] [http-nio-2020-exec-1] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : captcha font type ==>5
+[2020/11/27-00:00:36] [http-nio-2020-exec-1] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : captcha content == > 21
+[2020/11/27-00:03:22] [http-nio-2020-exec-4] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : captcha font type ==>7
+[2020/11/27-00:03:22] [http-nio-2020-exec-4] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : captcha content == > 3bf47
+[2020/11/27-00:03:24] [http-nio-2020-exec-3] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : captcha font type ==>3
+[2020/11/27-00:03:24] [http-nio-2020-exec-3] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : captcha content == > bavzc
+[2020/11/27-00:03:28] [http-nio-2020-exec-7] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : captcha font type ==>3
+[2020/11/27-00:03:28] [http-nio-2020-exec-7] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : captcha content == > 12
+[2020/11/27-00:03:29] [http-nio-2020-exec-8] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : captcha font type ==>3
+[2020/11/27-00:03:29] [http-nio-2020-exec-8] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : captcha content == > udmuy
+[2020/11/27-00:03:30] [http-nio-2020-exec-9] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : captcha font type ==>7
+[2020/11/27-00:03:30] [http-nio-2020-exec-9] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : captcha content == > 8
+[2020/11/27-00:03:31] [http-nio-2020-exec-10] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : captcha font type ==>0
+[2020/11/27-00:03:31] [http-nio-2020-exec-10] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : captcha content == > zykxp
+[2020/11/27-00:03:33] [http-nio-2020-exec-2] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : captcha font type ==>4
+[2020/11/27-00:03:33] [http-nio-2020-exec-2] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : captcha content == > 2
+[2020/11/27-00:03:35] [http-nio-2020-exec-5] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : captcha font type ==>4
+[2020/11/27-00:03:35] [http-nio-2020-exec-5] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : captcha content == > 7gwqh
+[2020/11/27-00:03:36] [http-nio-2020-exec-4] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : captcha font type ==>7
+[2020/11/27-00:03:36] [http-nio-2020-exec-4] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : captcha content == > zvfz5
+[2020/11/27-00:03:37] [http-nio-2020-exec-3] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : captcha font type ==>9
+[2020/11/27-00:03:37] [http-nio-2020-exec-3] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : captcha content == > gcvbr
+[2020/11/27-00:03:37] [http-nio-2020-exec-6] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : captcha font type ==>8
+[2020/11/27-00:03:37] [http-nio-2020-exec-6] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : captcha content == > 9
+[2020/11/27-00:03:37] [http-nio-2020-exec-7] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : captcha font type ==>2
+[2020/11/27-00:03:37] [http-nio-2020-exec-7] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : captcha content == > ffame
+[2020/11/27-00:03:38] [http-nio-2020-exec-8] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : captcha font type ==>5
+[2020/11/27-00:03:38] [http-nio-2020-exec-8] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : captcha content == > 7
+[2020/11/27-00:03:38] [http-nio-2020-exec-9] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : captcha font type ==>3
+[2020/11/27-00:03:38] [http-nio-2020-exec-9] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : captcha content == > 6
+[2020/11/27-00:05:12] [http-nio-2020-exec-2] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : captcha font type ==>8
+[2020/11/27-00:05:12] [http-nio-2020-exec-2] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : captcha content == > 7
+[2020/11/27-11:25:57] [main] [INFO ] [net.sunofbeach.blog.BlogApplication] : Starting BlogApplication on DESKTOP-G0F80VO with PID 3552 (E:\project\gitClonePorject\SobBlogSystem\target\classes started by JinFan in E:\project\gitClonePorject\SobBlogSystem)
+[2020/11/27-11:25:57] [main] [INFO ] [net.sunofbeach.blog.BlogApplication] : The following profiles are active: dev
+[2020/11/27-11:26:05] [main] [INFO ] [net.sunofbeach.blog.BlogApplication] : Started BlogApplication in 8.569 seconds (JVM running for 10.276)
+[2020/11/27-11:27:07] [main] [INFO ] [net.sunofbeach.blog.BlogApplication] : Starting BlogApplication on DESKTOP-G0F80VO with PID 3928 (E:\project\gitClonePorject\SobBlogSystem\target\classes started by JinFan in E:\project\gitClonePorject\SobBlogSystem)
+[2020/11/27-11:27:07] [main] [INFO ] [net.sunofbeach.blog.BlogApplication] : The following profiles are active: dev
+[2020/11/27-11:27:16] [main] [INFO ] [net.sunofbeach.blog.BlogApplication] : Started BlogApplication in 10.125 seconds (JVM running for 12.388)
+[2020/11/27-11:27:24] [http-nio-2020-exec-1] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : captcha font type ==>8
+[2020/11/27-11:27:24] [http-nio-2020-exec-1] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : captcha content == > a3npn
+[2020/11/27-11:27:35] [http-nio-2020-exec-2] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : captcha font type ==>3
+[2020/11/27-11:27:35] [http-nio-2020-exec-2] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : captcha content == > p94n6
+[2020/11/27-11:32:45] [http-nio-2020-exec-6] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : captcha font type ==>8
+[2020/11/27-11:32:45] [http-nio-2020-exec-6] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : captcha content == > 8rkqp
+[2020/11/27-11:34:07] [http-nio-2020-exec-7] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : captcha font type ==>8
+[2020/11/27-11:34:07] [http-nio-2020-exec-7] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : captcha content == > 2xsq4
+[2020/11/27-11:34:37] [http-nio-2020-exec-9] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : captcha font type ==>5
+[2020/11/27-11:34:37] [http-nio-2020-exec-9] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : captcha content == > z2emn
+[2020/11/27-11:35:09] [http-nio-2020-exec-4] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : captcha font type ==>5
+[2020/11/27-11:35:09] [http-nio-2020-exec-4] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : captcha content == > 4
+[2020/11/27-11:37:45] [http-nio-2020-exec-10] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : captcha font type ==>2
+[2020/11/27-11:37:45] [http-nio-2020-exec-10] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : captcha content == > hbzqk
