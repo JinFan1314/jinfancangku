@@ -40,7 +40,7 @@ public class UserApi {
      * date         2020/9/15 20:38
      * @author      jinFan
      * @param       user:user
-     * @return      net.sunofbeach.blog.response.ResponseResult
+     * @return      net.sunOfBeach.blog.response.ResponseResult
      */
     @PostMapping("/admin_account")
     public ResponseResult initManagerAccount(@RequestBody User user){
@@ -55,9 +55,9 @@ public class UserApi {
      * @param       emailCode：emailCode
      * @param       captchaCode：captchaCode
      * @param       captchaKey：captchaKey
-     * @return      net.sunofbeach.blog.response.ResponseResult
+     * @return      net.sunOfBeach.blog.response.ResponseResult
      */
-    @PostMapping("join_in")
+    @PostMapping
     public ResponseResult register(@RequestBody User user,
                                    @RequestParam("email_code") String emailCode,
                                    @RequestParam("captcha_code") String captchaCode,

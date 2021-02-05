@@ -28,7 +28,7 @@ public class EmailSender {
 
     //HANDMAIDEN
     private EmailSender() {
-        EmailSender.config(EmailSender.SMTP_163(false), "jf1314098765@163.com", "HGAXNDIANNBJBZMI");
+        EmailSender.config(EmailSender.SMTP_163(false), "jf1314098765@163.com", "XWNRJMELACZEFSTR");
     }
 
     public static Properties defaultConfig(Boolean debug) {

@@ -23,22 +23,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ddff5bef-7dd2-49e9-be88-4157133d1c9e" name="Default Changelist" comment="项目的描述以及重要代码">
-      <change afterPath="$PROJECT_DIR$/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/sob_system_blog.2020-11-11.0.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/sob_system_blog.2020-11-26.0.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/sob_system_blog.2020-11-27.0.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/sob_system_blog.2020-11-30.0.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/sob_system_blog.2020-12-01.0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/sob_system_blog.2020-12-02.0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/sob_system_blog.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/sob_system_blog.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/net/sunofbeach/blog/services/Impl/UserServicesImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/sunofbeach/blog/services/Impl/UserServicesImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/net/sunofbeach/blog/util/RedisUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/sunofbeach/blog/util/RedisUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/net/sunofbeach/blog/response/ResponseState.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/net/sunofbeach/blog/response/ResponseState.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/net/sunofbeach/blog/util/EmailSender$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/net/sunofbeach/blog/util/EmailSender$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/sunofbeach/blog/controller/user/UserApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/sunofbeach/blog/controller/user/UserApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/sunofbeach/blog/util/EmailSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/sunofbeach/blog/util/EmailSender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sunofbeach/blog/controller/user/UserApi.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/net/sunofbeach/blog/controller/user/UserApi.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/net/sunofbeach/blog/util/EmailSender.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/net/sunofbeach/blog/util/EmailSender.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/net/sunofbeach/blog/util/RedisUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/net/sunofbeach/blog/util/RedisUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/博客系统.md" beforeDir="false" afterPath="$PROJECT_DIR$/博客系统.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +43,12 @@
     <option name="done" value="true" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
@@ -87,10 +87,10 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="ReactorSettings">
@@ -187,7 +187,17 @@
       <workItem from="1607310173798" duration="3268000" />
       <workItem from="1607333018134" duration="3384000" />
       <workItem from="1607411894192" duration="2895000" />
-      <workItem from="1607666546629" duration="2218000" />
+      <workItem from="1607666546629" duration="2457000" />
+      <workItem from="1607671357821" duration="1028000" />
+      <workItem from="1608042565805" duration="1266000" />
+      <workItem from="1608090807406" duration="81000" />
+      <workItem from="1608953194037" duration="17000" />
+      <workItem from="1610539258688" duration="74000" />
+      <workItem from="1610541527648" duration="957000" />
+      <workItem from="1612492422873" duration="125000" />
+      <workItem from="1612492604969" duration="40000" />
+      <workItem from="1612517881883" duration="266000" />
+      <workItem from="1612519978504" duration="1627000" />
     </task>
     <task id="LOCAL-00001" summary="提交文件">
       <created>1605112115187</created>
@@ -252,7 +262,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606340650742</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="项目的描述以及重要代码">
+      <created>1607668973854</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1607668973854</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -277,6 +294,22 @@
     <MESSAGE value="文件提交" />
     <MESSAGE value="项目的描述以及重要代码" />
     <option name="LAST_COMMIT_MESSAGE" value="项目的描述以及重要代码" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/net/sunofbeach/blog/services/Impl/UserServicesImpl.java</url>
+          <line>267</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/net/sunofbeach/blog/services/Impl/UserServicesImpl.java</url>
+          <line>330</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
