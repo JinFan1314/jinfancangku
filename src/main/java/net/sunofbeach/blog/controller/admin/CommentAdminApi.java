@@ -21,7 +21,7 @@ public class CommentAdminApi {
      * date         2020/9/15 21:51
      * @author      jinFan
      * @param       commentId:评论ID
-     * @return      net.sunofbeach.blog.response.ResponseResult
+     * @return      net.sunOfBeach.blog.response.ResponseResult
      */
     @DeleteMapping("/{commentId}")
     public ResponseResult deleteComment(@PathVariable("commentId") String commentId){
@@ -35,7 +35,7 @@ public class CommentAdminApi {
      * @author      jinFan
      * @param       page:页码
      * @param       size:页数
-     * @return      net.sunofbeach.blog.response.ResponseResult
+     * @return      net.sunOfBeach.blog.response.ResponseResult
      */
     @GetMapping("/list")
     public ResponseResult listComments(@RequestParam("page") int page,@RequestParam("size") int size){
@@ -47,7 +47,7 @@ public class CommentAdminApi {
      * date         2020/9/15 22:30
      * @author      jinFan
      * @param       commentId:评论id
-     * @return      net.sunofbeach.blog.response.ResponseResult
+     * @return      net.sunOfBeach.blog.response.ResponseResult
      */
     @PutMapping("/top/{commentId}")
     public ResponseResult topComment(@PathVariable("commentId") String commentId){

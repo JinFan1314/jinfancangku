@@ -79,7 +79,7 @@ public class UserApi {
      * @param       captcha：验证码
      * @param       captchaKey:图灵验证码的key
      * @param       user:用户
-     * @return      net.sunofbeach.blog.response.ResponseResult
+     * @return      net.sunOfBeach.blog.response.ResponseResult
      */
     @PostMapping("/login/{captcha}/{captcha_key}")
     public ResponseResult login(@PathVariable("captcha_key") String captchaKey,
@@ -115,7 +115,7 @@ public class UserApi {
      * date         2020/9/15 20:53
      * @author      jinFan
      * @param       emailAddress
-     * @return      net.sunofbeach.blog.response.ResponseResult
+     * @return      net.sunOfBeach.blog.response.ResponseResult
      */
     @GetMapping("/verify_code")
     public ResponseResult sendVerifyCode(@RequestParam("type") String type,
@@ -148,7 +148,7 @@ public class UserApi {
      * @author      jinFan
      * @param       user:user
      * @param       verify_code:verify_code
-     * @return      net.sunofbeach.blog.response.ResponseResult
+     * @return      net.sunOfBeach.blog.response.ResponseResult
      */
     @PutMapping("/password/{verify_code}")
     public ResponseResult updatePassword(@RequestBody User user,@PathVariable("verify_code") String verify_code){
@@ -160,7 +160,7 @@ public class UserApi {
      * date         2020/9/15 20:57
      * @author      jinFan
      * @param       userId:userId
-     * @return      net.sunofbeach.blog.response.ResponseResult
+     * @return      net.sunOfBeach.blog.response.ResponseResult
      */
     @GetMapping("/user_info/{userId}")
     public ResponseResult getUserInfo(@PathVariable("userId") String userId){
@@ -173,7 +173,7 @@ public class UserApi {
      * @author      jinFan
      * @param       user:user
      * @param       userId:userId
-     * @return      net.sunofbeach.blog.response.ResponseResult
+     * @return      net.sunOfBeach.blog.response.ResponseResult
      */
     @PreAuthorize("@permission.admin()")
     @PutMapping("/user_info/{userId}")
@@ -233,7 +233,7 @@ public class UserApi {
      * date         2020/9/21 14:45
      * @author      jinFan
      * @param       userName:用户名
-     * @return      net.sunofbeach.blog.response.ResponseResult
+     * @return      net.sunbeam.blog.response.ResponseResult
      */
     @ApiResponses({
             @ApiResponse(code = 20000,message ="表示当前用户已经注册"),

@@ -29,7 +29,7 @@ public class ArticleAdminApi {
      * date         2020/9/15 22:06
      * @author      jinFan
      * @param       article:文章
-     * @return      net.sunofbeach.blog.response.ResponseResult
+     * @return      net.sunOfBeach.blog.response.ResponseResult
      */
     @PreAuthorize("@permission.admin()")
     @PostMapping
@@ -42,7 +42,7 @@ public class ArticleAdminApi {
      * date         2020/9/15 21:51
      * @author      jinFan
      * @param       articleId:文章id
-     * @return      net.sunofbeach.blog.response.ResponseResult
+     * @return      net.sunOfBeach.blog.response.ResponseResult
      */
     @PreAuthorize("@permission.admin()")
     @DeleteMapping("/{articleId}")

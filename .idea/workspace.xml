@@ -22,17 +22,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ddff5bef-7dd2-49e9-be88-4157133d1c9e" name="Default Changelist" comment="项目的描述以及重要代码">
-      <change afterPath="$PROJECT_DIR$/logs/sob_system_blog.2020-12-02.0.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="ddff5bef-7dd2-49e9-be88-4157133d1c9e" name="Default Changelist" comment="代码更新,及邮箱个更新">
+      <change afterPath="$PROJECT_DIR$/logs/sob_system_blog.2021-02-05.0.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/sob_system_blog.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/sob_system_blog.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/sunofbeach/blog/controller/admin/ArticleAdminApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/sunofbeach/blog/controller/admin/ArticleAdminApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/sunofbeach/blog/controller/admin/CategoryAdminApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/sunofbeach/blog/controller/admin/CategoryAdminApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/sunofbeach/blog/controller/admin/CommentAdminApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/sunofbeach/blog/controller/admin/CommentAdminApi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/net/sunofbeach/blog/controller/user/UserApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/sunofbeach/blog/controller/user/UserApi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/net/sunofbeach/blog/util/EmailSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/sunofbeach/blog/util/EmailSender.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/net/sunofbeach/blog/controller/user/UserApi.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/net/sunofbeach/blog/controller/user/UserApi.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/net/sunofbeach/blog/util/EmailSender.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/net/sunofbeach/blog/util/EmailSender.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/博客系统.md" beforeDir="false" afterPath="$PROJECT_DIR$/博客系统.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +87,7 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="ReactorSettings">
@@ -197,7 +194,13 @@
       <workItem from="1612492422873" duration="125000" />
       <workItem from="1612492604969" duration="40000" />
       <workItem from="1612517881883" duration="266000" />
-      <workItem from="1612519978504" duration="1627000" />
+      <workItem from="1612519978504" duration="1738000" />
+      <workItem from="1612605802692" duration="1083000" />
+      <workItem from="1612617471786" duration="3339000" />
+      <workItem from="1612677343925" duration="607000" />
+      <workItem from="1613544410860" duration="619000" />
+      <workItem from="1613640382875" duration="1093000" />
+      <workItem from="1613794663992" duration="145000" />
     </task>
     <task id="LOCAL-00001" summary="提交文件">
       <created>1605112115187</created>
@@ -269,7 +272,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607668973854</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="代码更新,及邮箱个更新">
+      <created>1612521712677</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1612521712677</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -293,7 +303,8 @@
     <MESSAGE value="修改文件格式" />
     <MESSAGE value="文件提交" />
     <MESSAGE value="项目的描述以及重要代码" />
-    <option name="LAST_COMMIT_MESSAGE" value="项目的描述以及重要代码" />
+    <MESSAGE value="代码更新,及邮箱个更新" />
+    <option name="LAST_COMMIT_MESSAGE" value="代码更新,及邮箱个更新" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

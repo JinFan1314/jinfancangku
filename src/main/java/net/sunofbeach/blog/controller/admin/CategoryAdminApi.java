@@ -6,7 +6,6 @@ import net.sunofbeach.blog.response.ResponseResult;
 import net.sunofbeach.blog.services.CategoryServices;
 import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.web.bind.annotation.*;
-
 import javax.annotation.Resource;
 
 /**
@@ -31,7 +30,7 @@ public class CategoryAdminApi {
      * date         2020/9/15 21:17
      * @author      jinFan
      * @param       category:分类
-     * @return      net.sunofbeach.blog.response.ResponseResult
+     * @return      net.sunOfBeach.blog.response.ResponseResult
      */
     @PreAuthorize("@permission.admin()")
     @PostMapping
@@ -44,7 +43,7 @@ public class CategoryAdminApi {
      * date         2020/9/15 21:20
      * @author      jinFan
      * @param       categoryId:id
-     * @return      net.sunofbeach.blog.response.ResponseResult
+     * @return      net.sunOfBeach.blog.response.ResponseResult
      */
     @PreAuthorize("@permission.admin()")
     @DeleteMapping("/{categoryId}")
@@ -58,7 +57,7 @@ public class CategoryAdminApi {
      * @author      jinFan
      * @param       categoryId:id
      * @param       category:分类
-     * @return      net.sunofbeach.blog.response.ResponseResult
+     * @return      net.sunOfBeach.blog.response.ResponseResult
      */
     @PreAuthorize("@permission.admin()")
     @PutMapping("/{categoryId}")
@@ -72,7 +71,7 @@ public class CategoryAdminApi {
      * date         2020/9/15 21:20
      * @author      jinFan
      * @param       categoryId:id
-     * @return      net.sunofbeach.blog.response.ResponseResult
+     * @return      net.sunOfBeach.blog.response.ResponseResult
      */
     @PreAuthorize("@permission.admin()")
     @GetMapping("/{categoryId}")
@@ -84,7 +83,7 @@ public class CategoryAdminApi {
      * description  TODO:获取分类列表
      * date         2020/9/15 21:30
      * @author      jinFan
-     * @return      net.sunofbeach.blog.response.ResponseResult
+     * @return      net.sunOfBeach.blog.response.ResponseResult
      */
     @PreAuthorize("@permission.admin()")
     @GetMapping("/list")
