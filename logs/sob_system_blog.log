@@ -1,3 +1,6 @@
 [2021/02/06-18:06:33] [main] [INFO ] [net.sunofbeach.blog.BlogApplication] : Starting BlogApplication on DESKTOP-G0F80VO with PID 7344 (E:\project\gitClonePorject\SobBlogSystem\target\classes started by JinFan in E:\project\gitClonePorject\SobBlogSystem)
 [2021/02/06-18:06:33] [main] [INFO ] [net.sunofbeach.blog.BlogApplication] : The following profiles are active: dev
 [2021/02/06-18:06:41] [main] [INFO ] [net.sunofbeach.blog.BlogApplication] : Started BlogApplication in 9.177 seconds (JVM running for 10.434)
+[2021/04/08-22:05:43] [main] [INFO ] [net.sunofbeach.blog.BlogApplication] : Starting BlogApplication on LAPTOP-M1LIM4F7 with PID 4988 (E:\IdeaProjects\gitProjects\jinfancangku\target\classes started by jinfan in E:\IdeaProjects\gitProjects\jinfancangku)
+[2021/04/08-22:05:43] [main] [INFO ] [net.sunofbeach.blog.BlogApplication] : The following profiles are active: dev
+[2021/04/08-22:05:54] [main] [INFO ] [net.sunofbeach.blog.BlogApplication] : Started BlogApplication in 11.663 seconds (JVM running for 13.372)
