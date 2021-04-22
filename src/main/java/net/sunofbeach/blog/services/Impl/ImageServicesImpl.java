@@ -173,12 +173,12 @@ public class ImageServicesImpl extends BaseServices implements ImageServices {
     }
 
     /**
-     * description  TODO:根据图片id获取图片
+     * description  TODO:&#x6839;&#x636E;&#x56FE;&#x7247;id&#x83B7;&#x53D6;&#x56FE;&#x7247;
      * date         2020/9/15 21:51
      *
-     * @param imageId:图片ID
+     * @param imageId:&#x56FE;&#x7247;ID
      * @param response:response
-     * @return net.sunbeam.blog.response.ResponseResult
+     * @return: net.sunbeam.blog.response.ResponseResult
      * @author jinFan
      */
     @Override
@@ -255,7 +255,7 @@ public class ImageServicesImpl extends BaseServices implements ImageServices {
     }
 
     /**
-     * description  TODO:根据图片id删除图片
+     * description TODO:根据图片id删除图片
      * <p>
      * 并不是真正的删除,只是修改状态
      * </p>
